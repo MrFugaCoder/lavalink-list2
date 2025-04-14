@@ -115,5 +115,14 @@
         "password": "https://disutils.com",
         "secure": true,
         "version": "v4"
+    },
+     {
+        "unique-id": "FUGAYT",
+        "identifier": "https://discord.gg/8M2bAHZaQH",
+        "host": "dnode2.astrast.host",
+        "port": 9869,
+        "password": "https://discord.gg/8M2bAHZaQH",
+        "secure": false,
+        "version": "v4"
     }
 ]
